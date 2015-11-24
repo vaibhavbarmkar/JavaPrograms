@@ -1,4 +1,4 @@
-package com.traningday2;
+//package com.traningday2;
 
 public class Sum {
 
